@@ -62,6 +62,6 @@ Agora, abra o aplicativo do expo e faça o scan do QRCode, certifique-se que o s
 Ou utilize um emulador de sua preferencia.
 
 <div align="center">
-  ![banner](https://user-images.githubusercontent.com/36719698/206001865-d1161628-0357-4078-a01b-86e287ea6765.png)
+  <img src="https://user-images.githubusercontent.com/36719698/206001865-d1161628-0357-4078-a01b-86e287ea6765.png"/>
 </div>
 
